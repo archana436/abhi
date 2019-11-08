@@ -2,4 +2,6 @@
 int main()
 {
   printf("hello my dear");
+  return 0;
+  printf("final");
 }
